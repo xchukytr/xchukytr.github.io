@@ -1,0 +1,96 @@
+/* Stylesheets and Google fonts import */
+
+@import url("font-awesome.css");
+@import url("entypo.css");
+
+/* Chuky Alp Fontlar Burada */
+
+@font-face {
+    font-family: 'Amsterdam';
+    src: url('fonts/Amsterdam.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Barcelona';
+    src: url('fonts/Barcelona.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Boston';
+    src: url('fonts/Boston.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'BuenosAires';
+    src: url('fonts/BuenosAires.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Chicago';
+    src: url('fonts/Chicago.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'LosAngeles';
+    src: url('fonts/LosAngeles.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Manchester';
+    src: url('fonts/Manchester.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Manhattan';
+    src: url('fonts/Manhattan.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Melbourne';
+    src: url('fonts/Melbourne.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'MexicoCity';
+    src: url('fonts/MexicoCity.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Montreal';
+    src: url('fonts/Montreal.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'NewYork';
+    src: url('fonts/NewYork.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Paris';
+    src: url('fonts/Paris.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'PortoRiko';
+    src: url('fonts/PortoRiko.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Prague';
+    src: url('fonts/Prague.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Sydney';
+    src: url('fonts/Sydney.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Tokyo';
+    src: url('fonts/Tokyo.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Copenhagen';
+    src: url('fonts/Copenhagen.ttf') format('truetype');
+}
